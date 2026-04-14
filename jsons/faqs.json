@@ -1,0 +1,26 @@
+[
+  { "intent": "becas_solicitud", "answer": "Puedes solicitar una beca del MESCyT a través de su portal web oficial cuando las convocatorias estén abiertas." },
+  { "intent": "becas_requisitos", "answer": "Los requisitos incluyen cédula, récord de notas y documentos académicos según la beca." },
+  { "intent": "becas_convocatoria", "answer": "Las convocatorias se publican en la página web y redes sociales del MESCyT." },
+  { "intent": "becas_disponibles", "answer": "Puedes ver las becas disponibles en el portal oficial del MESCyT." },
+  { "intent": "becas_tipo", "answer": "Existen becas nacionales e internacionales." },
+
+  { "intent": "registro", "answer": "Puedes registrarte en la plataforma creando una cuenta con tu correo." },
+  { "intent": "recuperar_password", "answer": "Usa la opción 'Olvidé mi contraseña' para recuperar acceso." },
+  { "intent": "actualizar_datos", "answer": "Puedes actualizar tus datos dentro de tu cuenta del MESCyT." },
+  { "intent": "estado_solicitud", "answer": "Consulta el estado iniciando sesión en la plataforma." },
+  { "intent": "documentos", "answer": "Debes subir cédula, récord de notas y documentos requeridos." },
+
+  { "intent": "ubicacion", "answer": "El MESCyT está en Santo Domingo, República Dominicana." },
+  { "intent": "horario", "answer": "Horario de lunes a viernes en horas laborales." },
+  { "intent": "soporte", "answer": "Puedes contactar soporte desde la página oficial." },
+  { "intent": "gratuito", "answer": "Sí, los servicios del MESCyT son gratuitos." },
+
+  { "intent": "programas", "answer": "El MESCyT ofrece becas y programas académicos." },
+  { "intent": "validar_titulo", "answer": "Debes realizar el proceso de validación presentando documentos." },
+  { "intent": "universidades", "answer": "Trabaja con universidades nacionales e internacionales." },
+
+  { "intent": "rechazo", "answer": "Puedes revisar los motivos y aplicar en otra convocatoria." },
+  { "intent": "multiple_becas", "answer": "Sí, puedes aplicar a varias becas." },
+  { "intent": "tiempo_proceso", "answer": "El proceso puede tardar varias semanas." }
+]

@@ -1,0 +1,192 @@
+{
+  "becas_solicitud": [
+    "como solicito una beca",
+    "quiero aplicar a una beca",
+    "como aplicar al mescyt",
+    "como pido una beca",
+    "aplicar beca mescyt",
+    "como consigo una beca",
+    "quiero una beca mescit",
+    "como aplicar beca",
+    "beca como aplicar",
+    "mescyt beca solicitud"
+  ],
+
+  "becas_requisitos": [
+    "requisitos para beca",
+    "que necesito para una beca",
+    "documentos para beca",
+    "requisitos mescyt beca",
+    "que piden para aplicar",
+    "requisito beca mescit",
+    "papeles para beca",
+    "que debo tener para beca"
+  ],
+
+  "estado_solicitud": [
+    "como veo mi solicitud",
+    "estado de mi beca",
+    "como saber si me aceptaron",
+    "mi solicitud fue aprobada",
+    "ver estado mescyt",
+    "consultar solicitud",
+    "como revisar mi beca",
+    "estatus solicitud"
+  ],
+
+  "recuperar_password": [
+    "olvide mi contraseña",
+    "no puedo entrar",
+    "recuperar clave",
+    "no recuerdo mi password",
+    "resetear contraseña",
+    "no me deja entrar",
+    "olvide mi clave mescyt"
+  ],
+
+  "registro": [
+    "como registrarme",
+    "crear cuenta mescyt",
+    "registrarse en mescyt",
+    "abrir cuenta",
+    "como hago una cuenta",
+    "signup mescyt"
+  ],
+
+  "documentos": [
+    "que documentos subir",
+    "que debo subir",
+    "documentos requeridos",
+    "archivos para beca",
+    "que papeles subir",
+    "subir documentos mescyt"
+  ],
+
+  "ubicacion": [
+    "donde queda mescyt",
+    "ubicacion mescyt",
+    "direccion mescyt",
+    "donde esta el mescyt",
+    "mescyt donde queda"
+  ],
+
+  "horario": [
+    "horario mescyt",
+    "a que hora abren",
+    "horas de trabajo",
+    "cuando atienden",
+    "horario de servicio"
+  ],
+
+  "soporte": [
+    "contacto mescyt",
+    "soporte mescyt",
+    "como llamar",
+    "telefono mescyt",
+    "ayuda mescyt"
+  ],
+
+  "validar_titulo": [
+    "validar titulo",
+    "como legalizar titulo",
+    "validacion de titulo",
+    "titulo universitario validar",
+    "legalizar titulo mescyt"
+  ],
+
+  "rechazo": [
+    "rechazaron mi solicitud",
+    "no me aprobaron",
+    "solicitud rechazada",
+    "porque me rechazaron",
+    "que hago si me rechazaron"
+  ],
+"becas_convocatoria": [
+  "cuando abren las becas",
+  "cuando hay convocatoria",
+  "fecha de becas mescyt",
+  "cuando salen las becas",
+  "cuando publican becas",
+  "convocatoria mescit",
+  "cuando tiran las becas"
+],
+
+"becas_disponibles": [
+  "que becas hay",
+  "becas disponibles mescyt",
+  "que becas puedo aplicar",
+  "ver becas mescyt",
+  "lista de becas",
+  "becas actuales",
+  "que becas estan abiertas"
+],
+
+"becas_tipo": [
+  "las becas son internacionales",
+  "hay becas fuera del pais",
+  "becas nacionales o internacionales",
+  "tipo de becas mescyt",
+  "que tipo de becas hay",
+  "becas en el extranjero",
+  "becas locales o internacionales"
+],
+
+"actualizar_datos": [
+  "como actualizar mis datos",
+  "editar informacion personal",
+  "cambiar mis datos",
+  "actualizar perfil mescyt",
+  "modificar mis datos",
+  "actualizar informacion",
+  "editar datos cuenta"
+],
+
+"gratuito": [
+  "el servicio es gratis",
+  "hay que pagar",
+  "cuesta aplicar",
+  "es gratuito mescyt",
+  "tiene costo",
+  "es gratis o pago",
+  "hay que pagar por beca"
+],
+
+"programas": [
+  "que programas ofrece mescyt",
+  "que carreras hay",
+  "programas academicos",
+  "oferta academica mescyt",
+  "que estudios ofrece",
+  "programas disponibles",
+  "que puedo estudiar"
+],
+
+"universidades": [
+  "que universidades participan",
+  "universidades afiliadas",
+  "con que universidades trabaja",
+  "universidades del programa",
+  "donde puedo estudiar",
+  "universidades disponibles",
+  "instituciones afiliadas"
+],
+
+"multiple_becas": [
+  "puedo aplicar a varias becas",
+  "puedo pedir mas de una beca",
+  "aplicar a multiples becas",
+  "puedo aplicar varias veces",
+  "varias becas al mismo tiempo",
+  "puedo meter varias solicitudes"
+],
+
+"tiempo_proceso": [
+  "cuanto tarda el proceso",
+  "tiempo de respuesta beca",
+  "cuanto dura la solicitud",
+  "cuando dan respuesta",
+  "cuanto se tarda mescyt",
+  "tiempo de aprobacion",
+  "cuanto dura el proceso"
+]
+}
