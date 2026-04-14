@@ -1,4 +1,4 @@
-# Bot MESCyT - Persona 2 (Infraestructura + Sistema)
+# Bot MESCyT
 
 Sistema de chatbot conversacional basado en Dialogflow ES para MESCyT. Implementación completa con arquitectura limpia, gestión de configuración mediante variables de entorno y mapeo inteligente de intents a respuestas.
 
